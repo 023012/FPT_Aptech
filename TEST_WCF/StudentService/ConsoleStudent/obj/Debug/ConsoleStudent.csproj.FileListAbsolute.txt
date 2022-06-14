@@ -1,0 +1,8 @@
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\ConsoleStudent\bin\Debug\ConsoleStudent.exe.config
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\ConsoleStudent\bin\Debug\ConsoleStudent.exe
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\ConsoleStudent\bin\Debug\ConsoleStudent.pdb
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\ConsoleStudent\obj\Debug\ConsoleStudent.csproj.AssemblyReference.cache
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\ConsoleStudent\obj\Debug\ConsoleStudent.csproj.SuggestedBindingRedirects.cache
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\ConsoleStudent\obj\Debug\ConsoleStudent.csproj.CoreCompileInputs.cache
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\ConsoleStudent\obj\Debug\ConsoleStudent.exe
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\ConsoleStudent\obj\Debug\ConsoleStudent.pdb

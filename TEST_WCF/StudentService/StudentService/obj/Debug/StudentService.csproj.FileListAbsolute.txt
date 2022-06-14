@@ -1,0 +1,12 @@
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\StudentService\bin\StudentService.dll.config
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\StudentService\bin\StudentService.dll
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\StudentService\bin\StudentService.pdb
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\StudentService\bin\EntityFramework.dll
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\StudentService\bin\EntityFramework.SqlServer.dll
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\StudentService\bin\EntityFramework.xml
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\StudentService\bin\EntityFramework.SqlServer.xml
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\StudentService\obj\Debug\StudentService.csproj.AssemblyReference.cache
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\StudentService\obj\Debug\StudentService.csproj.CoreCompileInputs.cache
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\StudentService\obj\Debug\StudentService.csproj.CopyComplete
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\StudentService\obj\Debug\StudentService.dll
+C:\Users\thdat\OneDrive\Documents\Fpt Aptech T2010M\Sem 3\Mircosoft Azure\TEST\StudentService\StudentService\obj\Debug\StudentService.pdb
